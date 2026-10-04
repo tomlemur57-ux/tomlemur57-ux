@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="300" viewBox="0 0 1080 300" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Tom Vu — Practical software. Clear outcomes.</title>
+  <desc id="banner-desc">A dark navy editorial technology banner with a mint dataflow network and a small terminal motif. It introduces Tom Vu's focus on Python, data tools, and web interfaces.</desc>
+
+  <rect width="1080" height="300" fill="#0b101b"/>
+
+  <!-- quiet technical grid -->
+  <g fill="none" stroke="#172333" stroke-width="1" opacity="0.7">
+    <path d="M48 0V300M120 0V300M192 0V300M264 0V300M336 0V300M408 0V300M480 0V300M552 0V300M624 0V300M696 0V300M768 0V300M840 0V300M912 0V300M984 0V300M1056 0V300"/>
+    <path d="M0 48H1080M0 96H1080M0 144H1080M0 192H1080M0 240H1080"/>
+  </g>
+
+  <!-- editorial corner framing -->
+  <path d="M48 48H370M48 48V84M1032 252H760M1032 252V216" fill="none" stroke="#b3f5c8" stroke-width="2" opacity="0.78"/>
+  <path d="M48 248H192" fill="none" stroke="#314054" stroke-width="1"/>
+
+  <!-- diagonal dataflow field -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M548 278L680 205L752 232L846 152L1032 54" stroke="#314054" stroke-width="2" opacity="0.9"/>
+    <path d="M620 300L714 246L790 258L882 192L1032 116" stroke="#213044" stroke-width="1.5"/>
+    <path d="M650 126L732 100L798 126L878 76L1012 76" stroke="#b3f5c8" stroke-width="2" opacity="0.64"/>
+    <path d="M760 34L824 74L890 46L968 88L1032 58" stroke="#779889" stroke-width="1" opacity="0.78"/>
+  </g>
+
+  <!-- network nodes -->
+  <g fill="#0b101b" stroke="#b3f5c8" stroke-width="2">
+    <circle cx="680" cy="205" r="5"/>
+    <circle cx="752" cy="232" r="5"/>
+    <circle cx="846" cy="152" r="5"/>
+    <circle cx="732" cy="100" r="5"/>
+    <circle cx="798" cy="126" r="5"/>
+    <circle cx="878" cy="76" r="5"/>
+    <circle cx="968" cy="88" r="5"/>
+  </g>
+  <g fill="#b3f5c8">
+    <circle cx="680" cy="205" r="2"/>
+    <circle cx="846" cy="152" r="2"/>
+    <circle cx="798" cy="126" r="2"/>
+    <circle cx="878" cy="76" r="2"/>
+  </g>
+
+  <!-- compact terminal panel -->
+  <g>
+    <rect x="776" y="161" width="220" height="104" rx="8" fill="#101a29" stroke="#314054" stroke-width="1.5"/>
+    <path d="M776 188H996" stroke="#314054" stroke-width="1"/>
+    <circle cx="794" cy="175" r="3" fill="#b3f5c8"/>
+    <circle cx="806" cy="175" r="3" fill="#779889"/>
+    <circle cx="818" cy="175" r="3" fill="#314054"/>
+    <text x="794" y="209" fill="#b3f5c8" font-family="Inter, sans-serif" font-size="13" letter-spacing="1">$ build clarity</text>
+    <text x="794" y="231" fill="#94a3b8" font-family="Inter, sans-serif" font-size="12">→ ship useful things</text>
+    <path d="M794 246H934" stroke="#b3f5c8" stroke-width="2" opacity="0.75"/>
+  </g>
+
+  <!-- title lockup -->
+  <g font-family="Inter, sans-serif">
+    <text x="72" y="137" fill="#b3f5c8" font-size="14" font-weight="600" letter-spacing="3">SOFTWARE / DATA / INTERFACES</text>
+    <text x="70" y="194" fill="#f4f7fb" font-size="58" font-weight="700" letter-spacing="5">TOM VU</text>
+    <rect x="72" y="211" width="44" height="3" fill="#b3f5c8"/>
+    <text x="130" y="218" fill="#d8e1eb" font-size="22" font-weight="400">Practical software. Clear outcomes.</text>
+    <text x="72" y="256" fill="#94a3b8" font-size="13" font-weight="500" letter-spacing="2.3">PYTHON  /  DATA TOOLS  /  WEB INTERFACES</text>
+  </g>
+</svg>
