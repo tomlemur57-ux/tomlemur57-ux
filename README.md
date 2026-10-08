@@ -1,12 +1,25 @@
 <img src="assets/profile-banner.svg" width="1080" alt="Tom Vu — Practical software. Clear outcomes. Python, data tools and web interfaces." />
 
-# Building useful things, with the details in the open.
+# Software, data and systems built for practical use.
 
-I'm **Tom Vu**. I build tools that turn messy data into clear output and web interfaces that behave well on smaller screens. My focus is practical: readable code, explicit scope, and results you can inspect.
+I'm **Tom Vu**, a freelance developer and systems engineer with **seven years of overall technology experience**, freelancing since **2023**. My work spans programming, data processing, systems architecture, self-hosted services, automation and hardware-focused projects, alongside website and Shopify business design.
 
-**Python** · **JavaScript** · **HTML & CSS** · **CSV / JSON** · **Browser interfaces**
+I evaluate AI models, coding workflows and infrastructure for **cost, speed and capability**. I care about clear system design, reusable automation and software that is practical to maintain.
+
+**Python** · **Rust** · **JavaScript** · **HTML & CSS** · **AWS** · **Cloudflare** · **CSV / JSON**
 
 [Explore the samples](https://github.com/tomlemur57-ux/freelance-samples) · [Inspect ReceiptLens](https://github.com/tomlemur57-ux/receiptlens) · [Discuss a small project](#work-with-me)
+
+## Engineering focus
+
+| Area | Focus |
+| --- | --- |
+| Data and automation | Data processing, format conversion, validation, reporting and repeatable workflows |
+| Software and architecture | Multi-language programming, system design, application logic and integrations |
+| Systems and infrastructure | Systems engineering, administration, self-hosting, cloud workloads and service deployment |
+| AI and development tooling | Model evaluation, coding workflows and infrastructure comparisons across cost, speed and capability |
+| Hardware and products | Hardware-focused projects, product prototyping and hardware/software integration |
+| Web and business design | Responsive websites, interfaces and Shopify business and store design |
 
 ## Selected work
 
@@ -37,6 +50,6 @@ I'm **Tom Vu**. I build tools that turn messy data into clear output and web int
 
 ## Work with me
 
-Small, well-defined projects: **CSV cleanup and repeatable reports**, or **one HTML/CSS/JavaScript layout issue**. Start with a redacted sample or reproducible page, the desired result, and the deadline; we'll confirm the scope before work.
+Development, data and automation projects with a clear brief: **Python utilities and repeatable reports**, **web interfaces and layout repairs**, or **systems and integration work**. Start with the inputs, desired result and deadline; we'll agree the scope and acceptance checks before work. I'm also open to referrals for related engineering projects.
 
 [CSV / Python inquiry](https://laborx.com/gigs/clean-one-csv-export-and-create-a-repeatable-python-report-123299) · [Website layout inquiry](https://laborx.com/gigs/fix-one-html-css-javascript-layout-issue-123298) · [CSV report package](https://sussygang.gumroad.com/l/rngtkz)
